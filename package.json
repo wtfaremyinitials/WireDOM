@@ -1,0 +1,18 @@
+{
+    "name": "WireDOM",
+    "description": "Manipulate the DOM with Javascript variables.",
+    "version": "1.0.0",
+    "author": "Will (wtfaremyinitials) Franzen",
+    "private": false,
+
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/npm/npm.git"
+    },
+
+    "devDependencies": {
+        "grunt": "~0.4.0",
+        "grunt-contrib-uglify": "*",
+        "matchdep": "~0.3.0"
+    }
+}
